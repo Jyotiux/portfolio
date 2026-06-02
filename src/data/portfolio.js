@@ -69,6 +69,40 @@ export const projects = [
     ],
   },
   {
+    category: "UI/UX Design | Figma",
+    name: "GreenCart — Grocery Delivery Mobile UI/UX Design",
+    stack:
+      "Figma, UI/UX, Wireframing, Prototyping, Design System, Mobile Design",
+    icon: "Palette",
+    description:
+      "Designed a modern grocery delivery mobile application focused on clean navigation, fast checkout, and real-time order tracking.",
+    details: [
+      "Created high-fidelity mobile UI screens for home, cart, checkout, payment, and delivery tracking using Figma.",
+      "Built reusable UI components including product cards, navigation bars, payment interfaces, and a consistent design system.",
+      "Developed interactive prototypes and low-fidelity wireframes to improve mobile usability, visual hierarchy, and user flow.",
+      "Focused on user-centered design, accessibility, and mobile-first experiences.",
+    ],
+    tags: [
+      "Figma",
+      "UI/UX",
+      "Wireframing",
+      "Prototyping",
+      "Design System",
+      "Mobile Design",
+    ],
+    links: [
+      {
+        label: "Prototype",
+        href: "https://www.figma.com/proto/oaLww9aqXPKg7kV1RJVmKm/GreenCart-Grocrey-App?node-id=1-1985&p=f&t=RMPNPqfRMWCggfnX-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1",
+      },
+      {
+        label: "Case Study",
+        href: "https://www.figma.com/proto/6eJ5TukIUp0bVg0KRgGjQm/GreenCart-Case-Study?node-id=2-3322&t=xI6WBeEGESiEBcv1-1",
+      },
+    ],
+    alignEnd: true,
+  },
+  {
     category: "MERN",
     name: "LocalLens - Location-Based Area Mapping Platform",
     stack: "MongoDB, Express.js, React, Node.js, Tailwind CSS",
