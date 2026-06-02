@@ -84,10 +84,10 @@ export const projects = [
   category: "UI/UX Design",
   stack: "Figma • Wireframing • Prototyping • Design Systems • Mobile UX",
   details: [
-    "Designed a grocery delivery mobile application focused on intuitive navigation, seamless shopping, and quick checkout flows.",
-    "Created high-fidelity UI screens for product browsing, cart management, checkout, payment, and real-time order tracking.",
-    "Built reusable design components and a consistent design system to ensure scalability and visual consistency.",
-    "Developed low-fidelity wireframes and interactive prototypes to validate user flows, improve usability, and enhance the overall user experience."
+    "Designed a grocery delivery mobile app with intuitive navigation and fast checkout.",
+    "Created high-fidelity screens for browsing, cart, payment, and order tracking.",
+    "Built reusable UI components and a scalable design system.",
+    "Developed wireframes and interactive prototypes to improve user flows."
   ]
 },
   {
