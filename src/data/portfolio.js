@@ -80,6 +80,17 @@ export const projects = [
     alignEnd: true,
   },
   {
+  name: "GreenCart",
+  category: "UI/UX Design",
+  stack: "Figma • Wireframing • Prototyping • Design Systems • Mobile UX",
+  details: [
+    "Designed a grocery delivery mobile application focused on intuitive navigation, seamless shopping, and quick checkout flows.",
+    "Created high-fidelity UI screens for product browsing, cart management, checkout, payment, and real-time order tracking.",
+    "Built reusable design components and a consistent design system to ensure scalability and visual consistency.",
+    "Developed low-fidelity wireframes and interactive prototypes to validate user flows, improve usability, and enhance the overall user experience."
+  ]
+},
+  {
     category: "AI/ML",
     name: "Message Spam Classifier",
     stack: "Python, NLP, FastAPI, Streamlit, TF-IDF",
